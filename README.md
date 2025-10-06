@@ -32,11 +32,11 @@ Graduate student in Data Science with strong foundation in statistics, machine l
 ## 📎 Projects
 
 
-## 📚 Certifications
+## 🏆Certifications
 
 **Incorta for the Dashboard Consumer**
 
-https://www.credential.net/28b4a25d-fe65-4af4-b00a-b5fe6dc4aa5d#acc.BE5ptk4K
+[![Accredible Badge](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/28b4a25d-fe65-4af4-b00a-b5fe6dc4aa5d)](https://www.credential.net/28b4a25d-fe65-4af4-b00a-b5fe6dc4aa5d)
 
 **Incorta Essentials**
 
