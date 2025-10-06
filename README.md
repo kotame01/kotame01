@@ -31,12 +31,19 @@ Graduate student in Data Science with strong foundation in statistics, machine l
 
 ## 📎 Projects
 
+## 🏆 Certifications  
 
-## 🏆Certifications
+### 📈 Dashboard
+**Incorta for the Dashboard Consumer** (Sep 04 2025)
 
-**Incorta for the Dashboard Consumer** (https://www.credential.net/28b4a25d-fe65-4af4-b00a-b5fe6dc4aa5d#acc.GTNx3wgp)
 
+[![View Credential](https://img.shields.io/badge/View%20Credential-blue?style=for-the-badge)](https://www.credential.net/28b4a25d-fe65-4af4-b00a-b5fe6dc4aa5d)
 
-**Incorta Essentials**
+**Incorta Essentials** (Sep 25 2025)
 
-https://www.credential.net/967e2135-f448-4a79-96ec-3938d292bdc1#acc.b0lHeYMv
+[![View Credential](https://img.shields.io/badge/View%20Credential-blue?style=for-the-badge)](https://www.credential.net/967e2135-f448-4a79-96ec-3938d292bdc1#acc.b0lHeYMv)
+
+### ☁️ Cloud
+
+**AWS Cloud Practitoner** 
+
