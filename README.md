@@ -36,5 +36,8 @@ Graduate student in Data Science with strong foundation in statistics, machine l
 
 **Incorta for the Dashboard Consumer**
 
+https://www.credential.net/28b4a25d-fe65-4af4-b00a-b5fe6dc4aa5d#acc.BE5ptk4K
 
-!https://www.credential.net/28b4a25d-fe65-4af4-b00a-b5fe6dc4aa5d#acc.BE5ptk4K
+**Incorta Essentials**
+
+https://www.credential.net/967e2135-f448-4a79-96ec-3938d292bdc1#acc.b0lHeYMv
