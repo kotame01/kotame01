@@ -35,4 +35,6 @@ Graduate student in Data Science with strong foundation in statistics, machine l
 ## 📚 Certifications
 
 **Incorta for the Dashboard Consumer**
+
+
 !https://www.credential.net/28b4a25d-fe65-4af4-b00a-b5fe6dc4aa5d#acc.BE5ptk4K
