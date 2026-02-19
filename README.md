@@ -31,19 +31,38 @@ Graduate student in Data Science with strong foundation in statistics, machine l
 
 ## 📎 Projects
 
-## 🏆 Certifications  
+# 📜 Certifications
 
-### 📈 Dashboard
-**Incorta for the Dashboard Consumer** (Sep 04 2025)
+## 🤖 AI / Generative AI Certifications
 
+- ![Intro to GenAI](https://img.shields.io/badge/Introduction%20to%20GenAI-Google%20Cloud-4285F4?style=flat-square)
+  **Introduction to Generative AI** – Google Cloud (Feb 2026)  
+  [View Certificate](./Intro_to_Generative_AI.pdf)
 
-[![View Credential](https://img.shields.io/badge/View%20Credential-blue?style=for-the-badge)](https://www.credential.net/28b4a25d-fe65-4af4-b00a-b5fe6dc4aa5d)
+- ![AI Project Management](https://img.shields.io/badge/AI%20in%20Project%20Management-LinkedIn%20Learning-0A66C2?style=flat-square)
+  **AI in Project Management** – LinkedIn Learning (Jan 2026)  
+  [View Certificate](./AI_in_Project_Management.pdf)
 
-**Incorta Essentials** (Sep 25 2025)
+---
 
-[![View Credential](https://img.shields.io/badge/View%20Credential-blue?style=for-the-badge)](https://www.credential.net/967e2135-f448-4a79-96ec-3938d292bdc1#acc.b0lHeYMv)
+## 📊 Data Platforms & Dashboard Certifications
 
-### ☁️ Cloud
+- ![Databricks](https://img.shields.io/badge/Databricks%20Fundamentals-Databricks-EF3E42?style=flat-square)
+  **Databricks Accredited Databricks Fundamentals** – Databricks Academy (Jan 2026)  
+  [View Certificate](./Databricks.pdf)
 
-**AWS Cloud Practitoner** 
+- ![Incorta Essentials](https://img.shields.io/badge/Incorta%20Essentials-Incorta-6A5ACD?style=flat-square)
+  **Incorta Essentials** – Incorta Learn (Sep 2025)  
+  [View Certificate](./Incorta_essentials.pdf)
 
+- ![Incorta Developer](https://img.shields.io/badge/Incorta%20Developer-Incorta-6A5ACD?style=flat-square)
+  **Incorta for Developers** – Incorta Learn (Dec 2025)  
+  [View Certificate](./Incorta_for_Developers.pdf)
+
+---
+
+## 🎓 Professional Development
+
+- ![McKinsey](https://img.shields.io/badge/McKinsey%20Forward%20Program-McKinsey-000000?style=flat-square)
+  **McKinsey.org Forward Program** – McKinsey.org (Dec 2025)  
+  [View Certificate](./McKinsey_Forward_Program.pdf)
